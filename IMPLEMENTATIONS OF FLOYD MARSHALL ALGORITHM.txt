@@ -1,0 +1,8 @@
+The Floyd–Warshall algorithm can be used to solve the following problems, among others:
+•	Shortest paths in directed graphs (Floyd's algorithm).
+•	Finding a regular expression denoting the regular language accepted by a finite automaton (Kleene's algorithm, a closely related generalization of the Floyd–Warshall algorithm)[11]
+•	Inversion of real matrices (Gauss–Jordan algorithm).
+•	Optimal routing between two vertices such as distance between two cities.
+•	Fast computation of Pathfinder networks.
+•	Widest paths/Maximum bandwidth paths.
+•	Computing canonical form of difference bound matrices (DBMs)
