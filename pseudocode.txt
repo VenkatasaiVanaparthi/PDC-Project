@@ -1,0 +1,5 @@
+The Floyd-Warshall algorithm compares all possible paths through the graph between each pair of vertices. Consider a graph G (V, E) where V is no. of vertices and E is no. of edges. For computing minimum path between each pair of node Wk. is computed where k ranges from 1 to V. For computing shortest from i to j, W [i, j] = W [i, k] +W [k, j] 
+
+INPUT: A graph G (V,E) where V is a set of vertices and E is set of weighted edges between these vertices. A source vertex form V.
+
+OUTPUT: The distance of shortest paths between the source vertex and every vertex in G.
